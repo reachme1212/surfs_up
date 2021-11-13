@@ -13,11 +13,15 @@ Also created a list that shows station Id’s and count of data, I need decent a
 
 ![output](images/stationid_count.PNG)
 
+
+
 1.USC00519281 = [(56.0, 87.0, 74.55)]
 2.USC00519397 = [(56.0, 87.0, 74.55)]
 3.USC00513117 = [(59.0, 85.0, 72.68)]
 
 when looked at the data from 2015 to 2017 these station temprature data show:
+
+
 
 1.USC00519281 = [(56.0, 85.0, 72.41)]
 2.USC00519397 = [(58.0, 87.0, 74.90)]
