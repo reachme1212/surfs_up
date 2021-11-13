@@ -16,7 +16,9 @@ Also created a list that shows station Id’s and count of data, I need decent a
 
 
 1.USC00519281 = [(56.0, 87.0, 74.55)]
+
 2.USC00519397 = [(56.0, 87.0, 74.55)]
+
 3.USC00513117 = [(59.0, 85.0, 72.68)]
 
 when looked at the data from 2015 to 2017 these station temprature data show:
@@ -24,7 +26,9 @@ when looked at the data from 2015 to 2017 these station temprature data show:
 
 
 1.USC00519281 = [(56.0, 85.0, 72.41)]
+
 2.USC00519397 = [(58.0, 87.0, 74.90)]
+
 3.USC00513117 = [(60.0, 85.0, 73.29)]
 
 I have created a summary statistic for June and Dec for all data given, for June I have 1700 data points the minimum temperature is 64, Maximum is 85 and Average temperature is 74, 3rd quartile data shows 75% of days in june has 77-degree temperature. As for December I have 1517 data points with Min :56, Max:83 and Average temperature of 71, 3rd quartile data shows 75% of days in december has 74 degree F, This looks promising as well.
